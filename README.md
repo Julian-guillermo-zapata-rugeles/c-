@@ -1,2 +1,2 @@
-# c-
-Programas en c++
+# c++ (Algoritmos)
+almacen de algoritmos
