@@ -1,4 +1,6 @@
 /*
+
+Julian Guillermo 2020
 El objetivo de este algoritmo es calcular la probabilidad de caer
 una cara de un dado (6 caras), representado por el numero 1,2,3,4,5,6 respectivamente.
 se usa la función srand y time para la semilla , y rand para generar las caras.
